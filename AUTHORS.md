@@ -2,8 +2,9 @@
 
 
 ## Core team:  
+- [Jerome Drese](https://github.com/jdrese)
 - [Miquel Campos](https://github.com/miquelcampos)
-- [Rafael Villar](https://github.com/RafaelVillar/)
+- [Rafael Villar](https://github.com/RafaelVillar)
 
 
 ## Contributors:  
@@ -11,11 +12,21 @@
 - [Gaetan Guidet](https://github.com/gatgui/)
 - [Lior Ben Horin](https://github.com/liorbenhorin/)
 - [Marcus Ottosson](https://github.com/mottosso)
+- [Marthinus Wessels](https://github.com/Lohult)
 - [Matsumoto-san](https://github.com/yamahigashi)
 - [Miles Cheng](https://github.com/milesckt/)
 - [Nate Allison](https://github.com/juggernate)
+- [niteshms04](https://github.com/niteshms04)
 - [Oda-san](https://github.com/Gotetz/)
+- [Ruuttu](https://github.com/Ruuttu/)
+
+## Forks:  
+- Anim_picker: [Guillaume Barlier](https://github.com/gbarlier/anim_picker)
+- Excons: [Gaetan Guidet](https://github.com/gatgui/excons)
+- Grim IK: [Charles Wardlaw](https://github.com/kattkieru/grim_IK)
+- Maya Math Nodes: [Serguei Kalentchouk](https://github.com/serguei-k/maya-math-nodes)
+
+** All listed in alphabetical order  
+** My apologies is we forget any name. Please contact us! :)  
 
 
-
-All listed in alphabetical order
