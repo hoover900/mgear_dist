@@ -6,7 +6,7 @@ End-user distribution of mgear.
 
 mgear consists of many parts, developed independently. Some of these parts fit together at particular versions, this repository maintains a collection of versions that are compatible with each other.
 
-- See [**Releases**](https://github.com/mgear-dev/mgear/releases) for a ready-to-use distribution of mgear.
+- See [**Releases**](https://github.com/mgear-dev/mgear_dist/releases) for a ready-to-use distribution of mgear.
 
 The general rule is; each individual repository MUST be usable standalone (in conjuntion with core) to facilitate independent development of each part in isolation from each other. This repository is then an *additional* method with which to distribute and consume mgear, primarily intended for the end-user who *does not* want to contribute back to the project through GitHub.
 <br>
@@ -24,7 +24,7 @@ Originally mGear was design and develope by Jeremie Passerin and Miquel Campos. 
 - [mGear Youtube channel](https://www.youtube.com/c/mgearriggingframework)
 - [API Docs](http://www.mgear-framework.com/mgear/)
 - [Release Log](http://www.mgear-framework.com/mgear/releaseLog.html)
-- For previous 2.x.x releases with compiled solvers: [mGear 2.x.x Releases](https://github.com/mgear-dev/mgear/releases)
+- [Previous 2.x.x releases with compiled solvers](https://github.com/mgear-dev/mgear/releases)
 
 ### Latest release: [3.1.0](https://github.com/mgear-dev/mgear_dist/releases)
 
