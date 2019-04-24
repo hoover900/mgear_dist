@@ -39,6 +39,7 @@ git clone https://github.com/mgear-dev/mgear_dist.git --recursive
 
 ```
 git submodule foreach git pull origin master
+```
 
 ### Architecture
 <img width=960 src=https://user-images.githubusercontent.com/1050212/41524355-26a9286a-7318-11e8-8170-7f2215af1f2e.png>
